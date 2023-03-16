@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557134968708",
+    "project_id": "estudio-e0789",
+    "storage_bucket": "estudio-e0789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557134968708:android:77eac8ce6050612d808fd1",
+        "android_client_info": {
+          "package_name": "com.example.class_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557134968708-e33knhoqd61c6bb67j51q18thuqm75c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLxbtzr-_fmsoej7v8QZoYKlKVMR0c90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557134968708-e33knhoqd61c6bb67j51q18thuqm75c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
