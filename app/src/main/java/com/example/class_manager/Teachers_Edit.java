@@ -17,7 +17,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
+/*controller*/
 public class Teachers_Edit extends AppCompatActivity {
     private EditText course,name,room,ph,mail;
     private Button submit;

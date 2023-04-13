@@ -1,5 +1,5 @@
 package com.example.class_manager;
-
+/*unused, model set to firestore*/
 public class Model {
     String id,title,description;
     public Model()

@@ -1,5 +1,5 @@
 package com.example.class_manager;
-
+/*used model*/
 public class TeachersDb {
     private String Slno;
     private String course;

@@ -9,7 +9,7 @@ import androidx.cardview.widget.CardView;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-
+/*view*/
 public class Timetable_Admin extends AppCompatActivity implements View.OnClickListener {
 
     public CardView card1, card2, card3,card4,card5;

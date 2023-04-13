@@ -22,7 +22,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*controller*/
 public class User_Announcement extends AppCompatActivity {
 
     List<Model> modelList=new ArrayList<>();

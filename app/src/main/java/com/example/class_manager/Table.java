@@ -1,5 +1,5 @@
 package com.example.class_manager;
-
+/*used model to define tables*/
 public class Table {
     private String S1,S2,S3,S4,S5,S6,R1,R2,R3,R4,R5,R6;
 

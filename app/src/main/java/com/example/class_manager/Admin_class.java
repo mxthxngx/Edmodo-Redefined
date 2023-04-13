@@ -21,7 +21,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/*
+contoller class*/
 public class Admin_class extends AppCompatActivity {
 
     Button adminannouncement;

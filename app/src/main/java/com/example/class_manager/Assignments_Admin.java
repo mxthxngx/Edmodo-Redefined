@@ -23,7 +23,7 @@ import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
 import android.widget.Toast;
-
+/*View*/
 public class Assignments_Admin extends AppCompatActivity {
     private Button next, assignments;
     Integer num=0;

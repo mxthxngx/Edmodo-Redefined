@@ -26,7 +26,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*View*/
 public class List_Activity extends AppCompatActivity {
 
     List<Model> modelList=new ArrayList<>();

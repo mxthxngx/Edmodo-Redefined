@@ -27,6 +27,11 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
+/*
+This class handles the functions of the admin class
+so this becomes a controller class
+also has direct connection to firebase
+but it also doesn't have the firestore api key or smth...*/
 
 public class Admin extends AppCompatActivity {
 
@@ -103,7 +108,7 @@ public class Admin extends AppCompatActivity {
                                     }
                                 }
                                 else {
-                                    Toast.makeText(Admin.this, "Havent created class yet!!!", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(Admin.this, "Havent created a class yet!!!", Toast.LENGTH_SHORT).show();
                                 }
                             }
 

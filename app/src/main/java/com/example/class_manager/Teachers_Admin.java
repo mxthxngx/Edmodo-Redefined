@@ -20,7 +20,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
-
+/*view*/
 public class Teachers_Admin extends AppCompatActivity {
     private int number = 0,num=0;
     private TableLayout t1;

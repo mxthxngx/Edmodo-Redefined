@@ -21,7 +21,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 import java.lang.reflect.Member;
-
+/*controller*/
 public class mon extends AppCompatActivity {
 
     private EditText s1,s2,s3,s4,s5,s6,r1,r2,r3,r4,r5,r6;

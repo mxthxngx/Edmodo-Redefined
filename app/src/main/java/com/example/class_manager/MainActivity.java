@@ -20,7 +20,7 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/*controller*/
 public class MainActivity extends AppCompatActivity {
 
     FirebaseFirestore fStore;

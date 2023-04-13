@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import static android.content.ContentValues.TAG;
-
+/*view main*/
 public class ViewHolder extends RecyclerView.ViewHolder{
 
     // public StringCharacterIterator mTitleTv;

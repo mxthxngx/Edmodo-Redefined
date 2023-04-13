@@ -1,7 +1,7 @@
 package com.example.class_manager;
 
 import java.util.Date;
-
+/*used model to handle student*/
 public class StudentBog {
     private String slno;
     private String subject;

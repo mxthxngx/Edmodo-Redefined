@@ -15,7 +15,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
+/*controller*/
 public class mon2 extends AppCompatActivity {
 
     private TextView a,b,c,f,g,h,i,j,k,l,m;

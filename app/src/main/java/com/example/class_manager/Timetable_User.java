@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-
+/*view*/
 public class Timetable_User extends AppCompatActivity implements View.OnClickListener {
 
     public CardView card1, card2, card3,card4,card5;

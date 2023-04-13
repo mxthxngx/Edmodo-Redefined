@@ -23,7 +23,7 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/*controller*/
 public class Register extends AppCompatActivity {
     EditText fullName,email,password,phone;
     Button registerBtn,goToLogin;
